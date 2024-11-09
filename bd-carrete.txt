@@ -1,0 +1,22 @@
+[
+    {
+        "description": "Mouse",
+        "material": 1234
+    },
+    {
+        "description": "Bag",
+        "material": 8345
+    },
+    {
+        "description": "Phone Case",
+        "material": 331199
+    },
+    {
+        "description": "Monitor",
+        "material": 997718
+    },
+    {
+        "description": "Cable",
+        "material": 391829
+    }
+]
